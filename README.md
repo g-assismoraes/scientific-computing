@@ -1,7 +1,7 @@
 # scientific-computing
 
 <div align="center">
-<h4>Projeto Final da disciplina Programação Científica ministrada na Universidade Federal Fluminense no semestre de 2022.2 <br>
+<h4>Projeto Final da disciplina Programação Científica ministrada na Universidade Federal Fluminense em 2022.2 <br>
  Consiste em um Coletor de Curvas gráfico, desenvolvido em Python e com o framework OpenGL, no qual se é possível fazer modelagem de objetos 2D e tranformá-los em malhas em que se é possível atribuir propriedades para seus pontos no contexto de problemas relacionados ao Método das Diferenças Finitas e ao Método dos Elementos Discretos.
  Além disso, também constam dois solvers desenvolvidos na linguagem Julia sobre o mesmo contexto.<h4>
 </div>
